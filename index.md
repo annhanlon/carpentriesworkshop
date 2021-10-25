@@ -106,6 +106,7 @@ This is a pilot workshop, testing out a lesson that is still under development. 
 AUDIENCE
 
 This workshop is intended for library staff at the UWM Libraries. However, it is open to anyone who is interested in learning more about using OpenRefine.
+
 {% endcomment %}
 {% if site.carpentry == "swc" %}
 {% include swc/who.html %}
